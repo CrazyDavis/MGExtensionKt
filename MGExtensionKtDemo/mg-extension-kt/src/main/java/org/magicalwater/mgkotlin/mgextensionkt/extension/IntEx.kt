@@ -1,4 +1,4 @@
-package com.mgwater.mgbaseproject.extension
+package org.magicalwater.mgkotlin.mgextensionkt
 
 import android.content.res.Resources
 

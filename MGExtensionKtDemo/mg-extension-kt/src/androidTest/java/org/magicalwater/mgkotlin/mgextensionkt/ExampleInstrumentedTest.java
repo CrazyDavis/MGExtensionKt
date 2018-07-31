@@ -1,4 +1,4 @@
-package org.magicalwater.mgkotlin.mg_extension_kt;
+package org.magicalwater.mgkotlin.mgextensionkt;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

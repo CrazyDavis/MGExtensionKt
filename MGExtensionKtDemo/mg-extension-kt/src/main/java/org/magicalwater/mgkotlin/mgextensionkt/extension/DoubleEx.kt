@@ -1,4 +1,4 @@
-package com.mgwater.mgbaseproject.extension
+package org.magicalwater.mgkotlin.mgextensionkt
 
 /**
  * Created by magicalwater on 2018/2/10.

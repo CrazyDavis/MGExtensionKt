@@ -1,4 +1,4 @@
-package org.magicalwater.mgkotlin.mg_extension_kt;
+package org.magicalwater.mgkotlin.mgextensionkt;
 
 import org.junit.Test;
 
